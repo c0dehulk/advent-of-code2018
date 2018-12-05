@@ -1,0 +1,11 @@
+
+# IDE Settings.
+/.idea/
+/.project/
+/nbproject/
+
+# Vagrant Settings.
+/.vagrant/
+
+# Composer Libraries.
+/vendor/
